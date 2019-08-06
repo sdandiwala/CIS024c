@@ -8,7 +8,7 @@ number2=0
 
 print "Type of sys.argv", type(sys.argv)
 
-print "sys.arg values:"
+#print "sys.arg values:"
 for val in sys.argv:
     print val
     
